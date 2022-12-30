@@ -2,13 +2,22 @@
 
 <h1 align="center">Hi 👋, I'm Dwen.Aozi</h1>
 <h3 align="center">I'm Darwin Gacer, Currently Studying at Laguna State Polytechnic University taking Bachelor of Science In Computer Science</h3>
-
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dawenxt&label=Profile%20views&color=0e75b6&style=flat" alt="dawenxt" /> </p>
+
+- 🌱 I’m currently learning **C# Languages**
+
+- 👨‍💻 Visit me to [https://dawinfo.github.io/myth/](https://dawinfo.github.io/myth/)
+
+- 📫 Message me in **gacerdarwin265@gmail.com**
+
+- ⚡ Call me as **Dawen**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/darwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="darwin" height="30" width="40" /></a>
+<a href="https://discord.gg/Dawen 〩" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Dawen 〩" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dawenxt&show_icons=true&locale=en" alt="dawenxt" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dawenxt&" alt="dawenxt" /></p>
+
