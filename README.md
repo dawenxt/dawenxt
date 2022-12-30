@@ -12,11 +12,11 @@
 
 - 📩 Direct Message me: [https://dawinfo.github.io/contact/](https://dawinfo.github.io/contact/)
 
-- 📫 Email me in: **gacerdarwin265@gmail.com**
+- 📫 or Email me in: **gacerdarwin265@gmail.com**
 
 - ⚡ Call me as **Dawen**
 
-- 👾 Editing Video and Picture
+- 👾 Editing Video and Picture [https://www.tiktok.com/@dawenxt](https://www.tiktok.com/@dawenxt)
 
 
 
