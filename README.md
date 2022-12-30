@@ -8,11 +8,17 @@
 
 - 🌱 I’m currently learning **C# Languages**
 
-- 👨‍💻 Visit me to [https://dawinfo.github.io/myth/](https://dawinfo.github.io/myth/)
+- 👨‍💻 Visit my portfolio: [https://dawinfo.github.io/myth/](https://dawinfo.github.io/myth/)
 
-- 📫 Message me in **gacerdarwin265@gmail.com**
+- 📩 Direct Message me: [(https://dawinfo.github.io/contact/)](https://dawinfo.github.io/contact/)
+
+- 📫 Email me in: **gacerdarwin265@gmail.com**
 
 - ⚡ Call me as **Dawen**
+
+- 👾 Editing Video and Picture
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
