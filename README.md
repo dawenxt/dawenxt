@@ -10,7 +10,7 @@
 
 - 👨‍💻 Visit my portfolio: [https://dawinfo.github.io/myth/](https://dawinfo.github.io/myth/)
 
-- 📩 Direct Message me: [(https://dawinfo.github.io/contact/)](https://dawinfo.github.io/contact/)
+- 📩 Direct Message me: [https://dawinfo.github.io/contact/](https://dawinfo.github.io/contact/)
 
 - 📫 Email me in: **gacerdarwin265@gmail.com**
 
