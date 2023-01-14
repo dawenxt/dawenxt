@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<img align="center" alt="Coding" width="7000" margin-left="500" src="999.png">
 
 <h1 align="center">Hi 👋, I'm Dwen.Aozi</h1>
 <h3 align="center">I'm Darwin Gacer, Currently Studying at Laguna State Polytechnic University taking Bachelor of Science In Computer Science</h3>
