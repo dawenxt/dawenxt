@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="7000" margin-left="500" src="dwn.png style="border-radius: 20px;">
+<img align="center" alt="Coding" width="7000" margin-left="500" src="dwn.png" style="border-radius: 20px;">
 <img align="center" alt="Coding" width="7000" margin-left="500" src="999.png" style="border-radius: 20px;">
 
 <h1 align="center">Hi 👋, I'm Dwen.Aozi</h1>
