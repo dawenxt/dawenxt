@@ -1,5 +1,5 @@
-<img align="center" alt="Coding" width="7000" margin-left="500" src="dwn.png" style="border-radius: 20px;">
-<img align="center" alt="Coding" width="7000" margin-left="500" src="999.png" style="border-radius: 20px;">
+<img align="center" alt="Coding" width="7000" margin-left="500" src="dwn.png">
+
 
 <h1 align="center">Hi 👋, I'm Dwen.Aozi</h1>
 <h3 align="center">I'm Darwin Gacer, Currently Studying at Laguna State Polytechnic University taking Bachelor of Science In Computer Science</h3>
@@ -36,3 +36,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dawenxt&" alt="dawenxt" /></p>
 
+<img align="center" alt="Coding" width="7000" margin-left="500" src="999.png">
