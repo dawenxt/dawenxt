@@ -17,7 +17,6 @@
 
 - ⚡ Call me as **Dawen**
 
-- 👾 Editing Video and Picture [https://www.tiktok.com/@dawenxt](https://www.tiktok.com/@dawenxt)
 
 
 
